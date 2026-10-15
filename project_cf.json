@@ -1,4 +1,17 @@
 {
-  "version": "2.4",
-  "url": "https://raw.githubusercontent.com/Magellan31RUS/Update/main/firmware.bin"
+  "name": "ChickenFarm controlling",
+  "about": "CoopAutomation",
+  "version": "2.5",
+  "notes": "Version ",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Magellan31RUS/update/main/firmware_cf.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
 }
