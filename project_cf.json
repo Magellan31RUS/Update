@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/Magellan31RUS/Update/blob/main/firmware_cf.bin",
+          "path": "https://raw.githubusercontent.com/Magellan31RUS/Update/main/firmware_cf.bin",
           "offset": 0
         }
       ]
